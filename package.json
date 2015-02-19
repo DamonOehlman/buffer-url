@@ -1,7 +1,7 @@
 {
   "name": "buffer-url",
   "version": "1.0.0",
-  "description": "Given a node buffer, create an object URL that can be provided to image, video and audio element src attributes",
+  "description": "Given a node style buffer, create an object URL that can be provided to image, video and audio element src attributes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
